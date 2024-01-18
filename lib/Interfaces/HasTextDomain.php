@@ -1,6 +1,6 @@
 <?php
 
-namespace PHPNomad\Integrations\WordPress\Interfaces;
+namespace PHPNomad\Translations\Interfaces\Interfaces;
 
 interface HasTextDomain
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace PHPNomad\Translations\Interfaces\Interfaces;
+namespace PHPNomad\Translations\Interfaces;
 
 interface HasTextDomain
 {

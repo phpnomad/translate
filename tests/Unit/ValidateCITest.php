@@ -1,8 +1,8 @@
 <?php
 
-namespace PHPNomad\Tests\Unit;
+namespace PHPNomad\Translations\Tests\Unit;
 
-use PHPNomad\Core\Tests\TestCase;
+use PHPNomad\Translations\Tests\TestCase;
 
 class ValidateCITest extends TestCase
 {

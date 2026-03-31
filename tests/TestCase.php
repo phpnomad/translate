@@ -1,7 +1,6 @@
 <?php
 
-namespace PHPNomad\Core\Tests;
-
+namespace PHPNomad\Translations\Tests;
 
 use PHPNomad\Tests\TestCase as CoreTestCase;
 

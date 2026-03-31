@@ -1,8 +1,7 @@
 {
     "name": "phpnomad/translate",
     "description": "",
-    "version": "1.0.0",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "type": "library",
     "homepage": "https://github.com/phpnomad/core",
     "readme": "README.md",
@@ -27,7 +26,9 @@
         }
     ],
     "require-dev": {
-        "phpnomad/tests": "^0.1.0 || ^0.3.0"
+        "phpnomad/tests": "^0.1.0 || ^0.3.0",
+        "phpunit/phpunit": "^9.6",
+        "mockery/mockery": "^1.5"
     },
     "config": {
         "allow-plugins": {

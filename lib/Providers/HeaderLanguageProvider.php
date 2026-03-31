@@ -1,10 +1,8 @@
 <?php
 
-namespace Siren\Translations\Service\Providers;
+namespace PHPNomad\Translations\Providers;
 
-use PHPNomad\Integrations\WordPress\Interfaces\HasLanguage;
-
-class HeaderLanguageProvider implements HasLanguage
+class HeaderLanguageProvider
 {
     /**
      * Attempts to get the language from the header.
